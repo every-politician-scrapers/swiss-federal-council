@@ -7,17 +7,29 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      Name.new(
+        full:     fullname,
+        prefixes: ['President 2021']
+      ).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      ['Member of the Swiss Federal Council',
+       (fullname.start_with?('President') ? 'President of the Swiss Confederation' : [])]
+    end
+
+    def fullname
+      noko.attr('title')
     end
   end
 
   class Members
+    def members
+      super.reject { |mem| mem[:name].include? 'Federal Chancellor' }
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.main-content .well').xpath('.//a[@title]')
     end
   end
 end
