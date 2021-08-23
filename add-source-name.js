@@ -16,6 +16,5 @@ module.exports = (guid, name, position) => ({
       P813: new Date().toISOString().split('T')[0],
       P407: meta.source.lang.wikidata,
       P1810: name, // named as (Person)
-      P1932: position, //stated as (Position)
     }
 })
