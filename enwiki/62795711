@@ -1,0 +1,380 @@
+{
+  "title": "Thomas Süssli",
+  "pageID": 62795711,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "Swiss military officers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Thomas Süssli (born 24 September 1966) is a Swiss Lieutenant General.",
+              "links": [
+                {
+                  "text": "Swiss",
+                  "type": "internal",
+                  "page": "Switzerland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lieutenant General"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Thomas Süssli"
+                ]
+              }
+            },
+            {
+              "text": "Since 1 January 2020, he has served as the Chief of the Armed Forces.",
+              "links": [
+                {
+                  "text": "Chief of the Armed Forces",
+                  "type": "internal",
+                  "page": "Chief of the Armed Forces (Switzerland)"
+                }
+              ]
+            },
+            {
+              "text": "He succeeded Philippe Rebord.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippe Rebord"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Süssli worked in the private sector in the banking and IT realms before becoming a full-time officer in 2015."
+            },
+            {
+              "text": "In 2019, he was chosen to succeed Philippe Rebord as Chief of the Armed Forces, with his selection being viewed by observers as unusual considering his background."
+            },
+            {
+              "text": "Rebord's formal retirement ceremony was held on 5 December 2019, and Süssli formally became the Armed Forces chief on January 1, 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swiss Lieutenant General (born 1966)",
+          "template": "short description"
+        },
+        {
+          "date": "January 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1966",
+          "month": "09",
+          "day": "24",
+          "df": "yes",
+          "template": "bda"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Thomas Süssli"
+          },
+          "image": {
+            "text": "File:Thomas Süssli in 2019.jpg"
+          },
+          "birth_date": {
+            "text": "September 24, 1966"
+          },
+          "birth_place": {
+            "text": "Zurich, Switzerland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zurich"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇨🇭 Switzerland",
+            "links": [
+              {
+                "text": "Switzerland",
+                "type": "internal",
+                "page": "switzerland"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Swiss Armed Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Swiss Armed Forces"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "2015–present"
+          },
+          "rank": {
+            "text": "CHE OF8 KKdt horizontal.svg Korpskommandant",
+            "links": [
+              {
+                "text": "Korpskommandant",
+                "type": "internal",
+                "page": "Lieutenant general"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Chief of the Armed Forces of Switzerland",
+            "links": [
+              {
+                "text": "Chief of the Armed Forces of Switzerland",
+                "type": "internal",
+                "page": "Military of Switzerland",
+                "anchor": "High Command"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.swissinfo.ch/eng/thomas-suessli-_cyberdefence-specialist-to-be-new-army-chief--/45206210",
+          "title": "Cyberdefence specialist to be new army chief",
+          "website": "SWI swissinfo.ch",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nzz.ch/schweiz/thomas-suessli-wird-neuer-armeechef-ld.1506414",
+          "title": "Thomas Süssli wird neuer Armeechef",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aargauerzeitung.ch/schweiz/informatiker-und-ex-banker-thomas-suessli-ist-der-neue-armeechef-135566906",
+          "title": "Informatiker und Ex-Banker: Thomas Süssli ist der neue Armeechef",
+          "website": "Aargauer Zeitung",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aargauerzeitung.ch/schweiz/ueberrumpelte-offiziere-legen-sich-erklaerung-zurecht-der-neue-armeechef-sei-ein-charmebolzen-135631622",
+          "title": "Überrumpelte Offiziere legen sich Erklärung zurecht – der neue Armeechef sei ein Charmebolzen",
+          "website": "Aargauer Zeitung",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Switzerland: The new head of the army has been inducted – Switzerland",
+          "url": "https://m.en24.news/2019/12/switzerland-the-new-head-of-the-army-has-been-inducted-switzerland-2.html",
+          "date": "5 December 2019",
+          "website": "En24 News",
+          "accessdate": "27 December 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Armée: le chef de l’armée Philippe Rebord passe le relais à son successeur Thomas Süssli au Château de Chillon",
+          "url": "https://www.lenouvelliste.ch/articles/suisse/armee-le-chef-de-l-armee-philippe-rebord-passe-le-relais-a-son-successeur-thomas-sussli-au-chateau-de-chillon-888393",
+          "date": "5 December 2019",
+          "work": "Le Nouvelliste",
+          "accessdate": "10 January 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Decorations and awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Source:"
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "CHE Skill-at-arms decoration Pistol level 1.png"
+            },
+            "col2": {
+              "text": "CHE Military Sports decoration, first class.png"
+            },
+            "col3": {
+              "text": "CHE Operations abroad Namibia (GANUPT).png"
+            }
+          }
+        ],
+        [
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Length of Service Decoration with three golden rosettes",
+              "links": [
+                {
+                  "text": "Length of Service Decoration",
+                  "type": "internal",
+                  "page": "Military awards and decorations of Switzerland",
+                  "anchor": "Length of Service Decorations"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "Pistol (Level 1)",
+              "links": [
+                {
+                  "text": "Pistol",
+                  "type": "internal",
+                  "page": "Military awards and decorations of Switzerland",
+                  "anchor": "Decorations"
+                }
+              ]
+            },
+            "col2": {
+              "text": "Military sport (Level 1)",
+              "links": [
+                {
+                  "text": "Military sport",
+                  "type": "internal",
+                  "page": "Military awards and decorations of Switzerland",
+                  "anchor": "Decorations"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Namibia Mission Insignia",
+              "links": [
+                {
+                  "text": "Namibia Mission Insignia",
+                  "type": "internal",
+                  "page": "Military awards and decorations of Switzerland",
+                  "anchor": "Mission insignia"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Length of service decoration",
+            "12054 days"
+          ],
+          "template": "ribbon devices switzerland"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.airuniversity.af.edu/News/Display/Article/2043239/readout-of-chairman-of-the-joint-chiefs-of-staff-gen-mark-a-milleys-meeting-wit/",
+          "title": "Readout of Chairman of the Joint Chiefs of Staff Gen. Mark. A. Milley’s Meeting with Switzerland Chief of the Armed Forces Lt. Gen. (S) Thomas Süssli",
+          "date": "18 December 2019",
+          "website": "Air University",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200122163024/https://www.airuniversity.af.edu/News/Display/Article/2043239/readout-of-chairman-of-the-joint-chiefs-of-staff-gen-mark-a-milleys-meeting-wit/",
+          "archive-date": "22 January 2020",
+          "access-date": "22 January 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Thomas Süssli"
+          ],
+          "template": "commons category"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Lt Gen Philippe Rebord",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of the Armed Forces",
+          "years": "1 January 2020 – present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "switzerland-mil-bio-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official profile page",
+            "links": [
+              {
+                "text": "Official profile page",
+                "type": "external",
+                "site": "https://www.vtg.admin.ch/de/die-schweizer-armee/hoehere-stabsoffiziere/hso/suessli-thomas.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
