@@ -74,11 +74,21 @@
               ]
             },
             {
-              "text": "On 1 January 2021, he assumed office as Vice President of Switzerland under President Guy Parmelin.",
+              "text": "Since 1 January 2021 he is the incumbent Vice President of Switzerland under President Guy Parmelin.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Guy Parmelin"
+                }
+              ]
+            },
+            {
+              "text": "On 8 December 2022 he was elected president of the Swiss Confederation for the year 2022.",
+              "links": [
+                {
+                  "text": "president of the Swiss Confederation",
+                  "type": "internal",
+                  "page": "president of the Swiss Confederation"
                 }
               ]
             }
@@ -122,12 +132,27 @@
             "text": "Cassis in 2021"
           },
           "office": {
-            "text": "Vice President of Switzerland"
+            "text": "President of Switzerland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Switzerland"
+              }
+            ]
           },
-          "termstart": {
-            "text": "1 January 2021"
+          "vicepresident": {
+            "text": "Alain Berset (elect)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alain Berset"
+              }
+            ]
           },
-          "president": {
+          "term_start": {
+            "text": "January 1, 2022"
+          },
+          "succeeding": {
             "text": "Guy Parmelin",
             "links": [
               {
@@ -136,10 +161,25 @@
               }
             ]
           },
-          "predecessor": {
+          "office1": {
+            "text": "Vice President of Switzerland"
+          },
+          "termstart1": {
+            "text": "1 January 2021"
+          },
+          "president1": {
+            "text": "Guy Parmelin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guy Parmelin"
+              }
+            ]
+          },
+          "predecessor1": {
             "text": "Guy Parmelin"
           },
-          "office1": {
+          "office2": {
             "text": "Head of the Department of Foreign Affairs",
             "links": [
               {
@@ -149,10 +189,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "1 November 2017"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Didier Burkhalter",
             "links": [
               {
@@ -161,7 +201,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Member of the Swiss Federal Council",
             "links": [
               {
@@ -171,10 +211,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "1 November 2017"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Didier Burkhalter",
             "links": [
               {
@@ -241,6 +281,14 @@
         }
       ],
       "references": [
+        {
+          "title": "Amtliches Bulletin",
+          "url": "https://www.parlament.ch/de/ratsbetrieb/amtliches-bulletin/amtliches-bulletin-die-verhandlungen?SubjectId=55220",
+          "access-date": "2021-12-09",
+          "website": "www.parlament.ch",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "https://www.24heures.ch/suisse/ignazio-cassis-pied-mur-europeen/story/31075762",
           "title": "Ignazio Cassis au pied du mur européen",
