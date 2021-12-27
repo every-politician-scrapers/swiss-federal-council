@@ -1,6 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q688230,President of the Swiss Confederation,Q39,Q39,,Q318316,1848-11-21,,,,President of the Swiss Confederation
 Q25550811,Vice president of Switzerland,,Q39,,,,,,,
+Q11811941,Member of the Swiss Federal Council,Q39,Q39,,,,,,,
 Q687810,Chancellor of Switzerland,Q39,,,,1803,,,,Chancellor of Switzerland
 Q1687249,president of the Swiss Council of States,Q39,Q39,,,,,,,
 Q2337229,President of the Swiss National Council,Q39,Q39,,,,,,,
