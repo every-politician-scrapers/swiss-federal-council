@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Ignazio Cassis (born 13 April 1961) is a Swiss physician and politician who has served as Vice President of Switzerland since 2021.",
+              "text": "Ignazio Cassis (born 13 April 1961) is a Swiss physician and politician who is currently serving as President of Switzerland.",
               "formatting": {
                 "bold": [
                   "Ignazio Cassis"
@@ -132,16 +132,10 @@
             "text": "Cassis in 2021"
           },
           "office": {
-            "text": "President of Switzerland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Switzerland"
-              }
-            ]
+            "text": "President of Switzerland"
           },
           "vicepresident": {
-            "text": "Alain Berset (elect)",
+            "text": "Alain Berset",
             "links": [
               {
                 "type": "internal",
@@ -152,7 +146,7 @@
           "term_start": {
             "text": "January 1, 2022"
           },
-          "succeeding": {
+          "predecessor": {
             "text": "Guy Parmelin",
             "links": [
               {
@@ -167,6 +161,9 @@
           "termstart1": {
             "text": "1 January 2021"
           },
+          "termend1": {
+            "text": "31 December 2021"
+          },
           "president1": {
             "text": "Guy Parmelin",
             "links": [
@@ -178,6 +175,9 @@
           },
           "predecessor1": {
             "text": "Guy Parmelin"
+          },
+          "successor1": {
+            "text": "Alain Berset"
           },
           "office2": {
             "text": "Head of the Department of Foreign Affairs",

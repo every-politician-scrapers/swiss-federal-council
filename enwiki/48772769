@@ -109,6 +109,9 @@
           "termstart": {
             "text": "1 January 2021"
           },
+          "termend": {
+            "text": "31 December 2021"
+          },
           "vicepresident": {
             "text": "Ignazio Cassis",
             "links": [
@@ -124,6 +127,15 @@
               {
                 "type": "internal",
                 "page": "Simonetta Sommaruga"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Ignazio Cassis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ignazio Cassis"
               }
             ]
           },
