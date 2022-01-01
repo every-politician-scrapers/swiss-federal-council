@@ -9,7 +9,7 @@ class MemberList
     def name
       Name.new(
         full:     fullname,
-        prefixes: ['President 2021']
+        prefixes: ['President 2022']
       ).short
     end
 
@@ -19,7 +19,7 @@ class MemberList
     end
 
     def fullname
-      noko.attr('title')
+      [noko.css('a/@title').text, noko.css('a').text].reject(&:empty?).first
     end
   end
 
@@ -29,7 +29,7 @@ class MemberList
     end
 
     def member_container
-      noko.css('.main-content .well').xpath('.//a[@title]')
+      noko.css('.main-content .well h3')
     end
   end
 end
