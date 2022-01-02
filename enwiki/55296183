@@ -25,7 +25,13 @@
         {
           "sentences": [
             {
-              "text": "Ignazio Cassis (born 13 April 1961) is a Swiss physician and politician who is currently serving as President of Switzerland.",
+              "text": "Ignazio Cassis (born 13 April 1961) is a Swiss physician and politician who is currently serving as President of the Swiss Confederation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of the Swiss Confederation"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Ignazio Cassis"
@@ -74,21 +80,11 @@
               ]
             },
             {
-              "text": "Since 1 January 2021 he is the incumbent Vice President of Switzerland under President Guy Parmelin.",
+              "text": "Since 1 January 2022 he is the incumbent President of the Swiss Confederation.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Guy Parmelin"
-                }
-              ]
-            },
-            {
-              "text": "On 8 December 2021 he was elected president of the Swiss Confederation for the year 2022.",
-              "links": [
-                {
-                  "text": "president of the Swiss Confederation",
-                  "type": "internal",
-                  "page": "president of the Swiss Confederation"
+                  "page": "President of the Swiss Confederation"
                 }
               ]
             }
@@ -97,7 +93,7 @@
       ],
       "templates": [
         {
-          "description": "Vice President of Switzerland",
+          "description": "President of Switzerland",
           "template": "short description"
         },
         {
@@ -132,7 +128,14 @@
             "text": "Cassis in 2021"
           },
           "office": {
-            "text": "President of Switzerland"
+            "text": "President of Switzerland",
+            "links": [
+              {
+                "text": "President of Switzerland",
+                "type": "internal",
+                "page": "President of the Swiss Confederation"
+              }
+            ]
           },
           "vicepresident": {
             "text": "Alain Berset",
@@ -288,19 +291,6 @@
           "website": "www.parlament.ch",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "url": "https://www.24heures.ch/suisse/ignazio-cassis-pied-mur-europeen/story/31075762",
-          "title": "Ignazio Cassis au pied du mur européen",
-          "last": "Quiquerez",
-          "first": "Florent",
-          "date": "1 November 2017",
-          "work": "24Heures",
-          "access-date": "2017-11-01",
-          "language": "fr",
-          "issn": "1424-4039",
-          "template": "citation",
-          "type": "news"
         }
       ]
     }

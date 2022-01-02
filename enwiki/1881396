@@ -208,6 +208,21 @@
             "text": "Vice President of Switzerland"
           },
           "president1": {
+            "text": "Ignazio Cassis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ignazio Cassis"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2022"
+          },
+          "predecessor1": {
+            "text": "Ignazio Cassis"
+          },
+          "president2": {
             "text": "Doris Leuthard",
             "links": [
               {
@@ -216,16 +231,16 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "1 January 2017"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "31 December 2017"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Doris Leuthard"
           },
-          "successor1": {
+          "successor2": {
             "text": "Ueli Maurer",
             "links": [
               {
@@ -234,7 +249,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Head of the Department of Home Affairs",
             "links": [
               {
@@ -244,10 +259,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "1 January 2012"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Didier Burkhalter",
             "links": [
               {
@@ -256,7 +271,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Member of the Federal Council",
             "links": [
               {
@@ -266,10 +281,10 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "1 January 2012"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Micheline Calmy-Rey",
             "links": [
               {
@@ -278,7 +293,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "President of the Council of States",
             "links": [
               {
@@ -288,13 +303,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "1 December 2008"
           },
-          "term_end4": {
+          "term_end5": {
             "text": "23 November 2009"
           },
-          "predecessor4": {
+          "predecessor5": {
             "text": "Christoffel Brändli",
             "links": [
               {
@@ -303,7 +318,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor5": {
             "text": "Erika Forster-Vannini",
             "links": [
               {
