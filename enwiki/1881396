@@ -384,40 +384,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Jaberg",
-          "first1": "Samuel",
-          "last2": "Kamel",
-          "first2": "Dhif",
-          "title": "Youngest Swiss President in 84 Years Takes Office",
-          "url": "https://www.swissinfo.ch/eng/alain-berset-_youngest-swiss-president-in-84-years-takes-office/43783510",
-          "date": "1 January 2018",
-          "publisher": "Swissinfo",
-          "access-date": "9 January 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "World Economic Forum",
-          "title": "Press Conference with Swiss President Alain Berset after meeting with US President Donald Trump",
-          "date": "January 26, 2018",
-          "quote": "The Swiss President will make his statement in German and French but can take questions in English as well.",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "url": "https://www.thelocal.ch/20171207/alain-berset-elected-swiss-president-for-2018",
-          "title": "Alain Berset elected Swiss president for 2018",
-          "date": "7 December 2017",
-          "work": "The Local",
-          "access-date": "20 May 2018",
-          "language": "en",
-          "quote": "\"It is a great honour and a great responsibility,\" Berset told parliament after the vote, delivering his message in all four of Switzerland's official languages (German, French, Italian and Romansh).",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

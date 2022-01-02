@@ -210,18 +210,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.srf.ch/sendungen/10vor10/sendungen/(offset)/0",
-          "title": "FOKUS: Departements-Rochade",
-          "publisher": "10 vor 10",
-          "language": "de",
-          "date": "10 December 2018",
-          "access-date": "10 December 2018",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
