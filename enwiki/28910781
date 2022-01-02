@@ -375,28 +375,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Leuthard au DETEC, Widmer-Schlumpf aux finances",
-          "url": "http://www.tsr.ch/info/suisse/2515971-leuthard-au-detec-widmer-schlumpf-aux-finances.html",
-          "work": "TSR Télévision Suisse Romande",
-          "publisher": "SRG SSR",
-          "access-date": "27 September 2010",
-          "date": "27 September 2010",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20100930203130/http://www.tsr.ch/info/suisse/2515971-leuthard-au-detec-widmer-schlumpf-aux-finances.html",
-          "archive-date": "30 September 2010",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
