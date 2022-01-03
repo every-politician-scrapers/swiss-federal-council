@@ -41,7 +41,7 @@
               ]
             },
             {
-              "text": "When it merged with the Conservative Democratic Party (BDP/PBD) to form The Centre in 2021, Thurnherr joined the new party.",
+              "text": "When it merged with the Conservative Democratic Party (BDP/PBD) to form The Centre (DM/LC) in 2021, Thurnherr joined the new party.",
               "links": [
                 {
                   "text": "Conservative Democratic Party",
@@ -87,6 +87,9 @@
           "image": {
             "text": "Walter Thurnherr (2015).jpg"
           },
+          "caption": {
+            "text": "Thurnherr in 2015"
+          },
           "office": {
             "text": "Chancellor of Switzerland",
             "links": [
@@ -97,7 +100,7 @@
             ]
           },
           "president": {
-            "text": "Johann Schneider-Ammann Doris Leuthard Alain Berset Ueli Maurer Simonetta Sommaruga Guy Parmelin",
+            "text": "Johann Schneider-Ammann Doris Leuthard Alain Berset Ueli Maurer Simonetta Sommaruga Guy Parmelin Ignazio Cassis",
             "links": [
               {
                 "type": "internal",
@@ -122,6 +125,10 @@
               {
                 "type": "internal",
                 "page": "Guy Parmelin"
+              },
+              {
+                "type": "internal",
+                "page": "Ignazio Cassis"
               }
             ]
           },
@@ -141,12 +148,16 @@
             "text": "July 11, 1963"
           },
           "birth_place": {
-            "text": "Muri, Switzerland",
+            "text": "Muri, Aargau, Switzerland",
             "links": [
               {
                 "text": "Muri",
                 "type": "internal",
                 "page": "Muri, Aargau"
+              },
+              {
+                "type": "internal",
+                "page": "Aargau"
               },
               {
                 "type": "internal",

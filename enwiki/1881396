@@ -35,7 +35,7 @@
               }
             },
             {
-              "text": "A member of the Social Democratic Party (SP/PS), he has headed the Federal Department of Home Affairs since his inauguration.",
+              "text": "A member of the Social Democratic Party (SP/PS), he has headed the Federal Department of Home Affairs since he took office.",
               "links": [
                 {
                   "text": "Social Democratic Party",
@@ -45,6 +45,15 @@
                 {
                   "type": "internal",
                   "page": "Federal Department of Home Affairs"
+                }
+              ]
+            },
+            {
+              "text": "Berset has served as Vice President of Switzerland since 1 January 2022 under President Ignazio Cassis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ignazio Cassis"
                 }
               ]
             }
@@ -73,6 +82,11 @@
             {
               "text": "Prior to his election to the Federal Council in 2011, he was a member of the Council of States (from the canton of Fribourg, 2003–2011), where he served as President of the Council of States for the 2008–2009 term.",
               "links": [
+                {
+                  "text": "Federal Council",
+                  "type": "internal",
+                  "page": "Federal Council (Switzerland)"
+                },
                 {
                   "text": "2011",
                   "type": "internal",
@@ -162,10 +176,10 @@
             "text": "Alain Berset"
           },
           "image": {
-            "text": "Alain Berset 2016.jpg"
+            "text": "Alain Berset (2018).jpg"
           },
           "caption": {
-            "text": "Berset in 2016"
+            "text": "Berset in 2018"
           },
           "office": {
             "text": "President of Switzerland",
@@ -178,7 +192,13 @@
             ]
           },
           "vicepresident": {
-            "text": "Ueli Maurer"
+            "text": "Ueli Maurer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ueli Maurer"
+              }
+            ]
           },
           "term_start": {
             "text": "1 January 2018"
@@ -220,7 +240,13 @@
             "text": "1 January 2022"
           },
           "predecessor1": {
-            "text": "Ignazio Cassis"
+            "text": "Ignazio Cassis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ignazio Cassis"
+              }
+            ]
           },
           "president2": {
             "text": "Doris Leuthard",
@@ -238,7 +264,13 @@
             "text": "31 December 2017"
           },
           "predecessor2": {
-            "text": "Doris Leuthard"
+            "text": "Doris Leuthard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Doris Leuthard"
+              }
+            ]
           },
           "successor2": {
             "text": "Ueli Maurer",

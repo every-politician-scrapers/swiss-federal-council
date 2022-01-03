@@ -156,11 +156,15 @@
             "text": "June 7, 1962"
           },
           "birth_place": {
-            "text": "Brig-Glis, Switzerland",
+            "text": "Brig-Glis, Valais, Switzerland",
             "links": [
               {
                 "type": "internal",
                 "page": "Brig-Glis"
+              },
+              {
+                "type": "internal",
+                "page": "Valais"
               },
               {
                 "type": "internal",

@@ -407,11 +407,16 @@
             "text": "December 1, 1950"
           },
           "birth_place": {
-            "text": "Wetzikon, Switzerland",
+            "text": "Wetzikon, Zürich, Switzerland",
             "links": [
               {
                 "type": "internal",
                 "page": "Wetzikon"
+              },
+              {
+                "text": "Zürich",
+                "type": "internal",
+                "page": "Canton of Zürich"
               },
               {
                 "type": "internal",
