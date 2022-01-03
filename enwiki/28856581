@@ -170,11 +170,16 @@
             "text": "December 22, 1963"
           },
           "birth_place": {
-            "text": "Uzwil, Switzerland",
+            "text": "Uzwil, St. Gallen, Switzerland",
             "links": [
               {
                 "type": "internal",
                 "page": "Uzwil"
+              },
+              {
+                "text": "St. Gallen",
+                "type": "internal",
+                "page": "Canton of St. Gallen"
               },
               {
                 "type": "internal",

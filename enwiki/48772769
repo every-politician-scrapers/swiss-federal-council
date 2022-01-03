@@ -96,6 +96,9 @@
           "image": {
             "text": "Guy Parmelin 2016.jpg"
           },
+          "caption": {
+            "text": "Parmelin in 2016"
+          },
           "office": {
             "text": "President of Switzerland",
             "links": [
@@ -260,11 +263,15 @@
             "text": "November 9, 1959"
           },
           "birth_place": {
-            "text": "Bursins, Switzerland",
+            "text": "Bursins, Vaud, Switzerland",
             "links": [
               {
                 "type": "internal",
                 "page": "Bursins"
+              },
+              {
+                "type": "internal",
+                "page": "Vaud"
               },
               {
                 "type": "internal",

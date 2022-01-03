@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Ignazio Cassis (born 13 April 1961) is a Swiss physician and politician who is currently serving as President of the Swiss Confederation.",
+              "text": "Ignazio Daniele Giovanni Cassis (born 13 April 1961) is a Swiss physician and politician who has served as President of the Swiss Confederation since 1 January 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -34,12 +34,12 @@
               ],
               "formatting": {
                 "bold": [
-                  "Ignazio Cassis"
+                  "Ignazio Daniele Giovanni Cassis"
                 ]
               }
             },
             {
-              "text": "A member of FDP.The Liberals, he has been a Member of the Swiss Federal Council since 2017.",
+              "text": "A member of FDP.The Liberals, he has been a Member of the Swiss Federal Council since 1 November 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -51,11 +51,7 @@
                   "page": "List of members of the Swiss Federal Council"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Cassis was elected to the Federal Council on 20 September 2017 following the resignation of Didier Burkhalter.",
               "links": [
@@ -71,7 +67,7 @@
               ]
             },
             {
-              "text": "He has served as head of the Federal Department of Foreign Affairs since 1 November 2017.",
+              "text": "He has headed the Federal Department of Foreign Affairs since he took office.",
               "links": [
                 {
                   "type": "internal",
@@ -80,20 +76,14 @@
               ]
             },
             {
-              "text": "Since 1 January 2022 he is the incumbent President of the Swiss Confederation.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of the Swiss Confederation"
-                }
-              ]
+              "text": "On 8 December 2021, Cassis was elected President of the Swiss Confederation for 2022."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "President of Switzerland",
+          "description": "99th President of the Swiss Confederation",
           "template": "short description"
         },
         {
@@ -147,7 +137,7 @@
             ]
           },
           "term_start": {
-            "text": "January 1, 2022"
+            "text": "1 January 2022"
           },
           "predecessor": {
             "text": "Guy Parmelin",
@@ -177,10 +167,22 @@
             ]
           },
           "predecessor1": {
-            "text": "Guy Parmelin"
+            "text": "Guy Parmelin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guy Parmelin"
+              }
+            ]
           },
           "successor1": {
-            "text": "Alain Berset"
+            "text": "Alain Berset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alain Berset"
+              }
+            ]
           },
           "office2": {
             "text": "Head of the Department of Foreign Affairs",
@@ -226,16 +228,23 @@
               }
             ]
           },
+          "birth_name": {
+            "text": "Ignazio Daniele Giovanni Cassis"
+          },
           "birth_date": {
             "text": "April 13, 1961"
           },
           "birth_place": {
-            "text": "Sessa, Switzerland",
+            "text": "Sessa, Ticino, Switzerland",
             "links": [
               {
                 "text": "Sessa",
                 "type": "internal",
                 "page": "Sessa, Ticino"
+              },
+              {
+                "type": "internal",
+                "page": "Ticino"
               },
               {
                 "type": "internal",
@@ -253,14 +262,14 @@
             ]
           },
           "spouse": {
-            "text": "Paola Cassis"
+            "text": "Paola Rodoni"
           },
           "alma_mater": {
-            "text": "University of Zürich University of Lausanne",
+            "text": "University of Zurich University of Lausanne",
             "links": [
               {
                 "type": "internal",
-                "page": "University of Zürich"
+                "page": "University of Zurich"
               },
               {
                 "type": "internal",
