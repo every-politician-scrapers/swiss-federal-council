@@ -6,7 +6,8 @@
     "Living people",
     "People from the canton of Schwyz",
     "Swiss People's Party politicians",
-    "Members of the Council of States (Switzerland)"
+    "Members of the Council of States (Switzerland)",
+    "Presidents of the Council of States (Switzerland)"
   ],
   "sections": [
     {
@@ -16,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Alex Kuprecht is a Swiss politician serving as President of the Council of States since 2020.",
+              "text": "Alex Kuprecht is a Swiss politician who was the President of the Council of States from 2020 to 2021.",
               "links": [
                 {
                   "text": "President of the Council of States",
@@ -95,12 +96,24 @@
           "term_start": {
             "text": "30 November 2020"
           },
+          "term_end": {
+            "text": "29 November 2021"
+          },
           "predecessor": {
             "text": "Hans Stöckli",
             "links": [
               {
                 "type": "internal",
                 "page": "Hans Stöckli"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Thomas Hefti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thomas Hefti"
               }
             ]
           },
