@@ -110,8 +110,12 @@
               ]
             },
             {
-              "text": "Berset speaks Swiss German, Standard German, French, Italian, Romansh and English.",
+              "text": "Berset speaks Swiss French, Swiss German, Standard German, Italian, Romansh and English.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Swiss French"
+                },
                 {
                   "type": "internal",
                   "page": "Swiss German"
@@ -119,11 +123,6 @@
                 {
                   "type": "internal",
                   "page": "Standard German"
-                },
-                {
-                  "text": "French",
-                  "type": "internal",
-                  "page": "French language"
                 },
                 {
                   "text": "Italian",
