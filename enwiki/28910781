@@ -1,381 +1,44 @@
 {
-  "title": "Simonetta Sommaruga",
-  "pageID": 28910781,
-  "categories": [
-    "1960 births",
-    "20th-century Swiss people",
-    "20th-century women politicians",
-    "21st-century Swiss people",
-    "21st-century women politicians",
-    "Female heads of state",
-    "Living people",
-    "Members of the Council of States (Switzerland)",
-    "Members of the National Council (Switzerland)",
-    "Members of the Federal Council (Switzerland)",
-    "People from Zug",
-    "Social Democratic Party of Switzerland politicians",
-    "University of Fribourg alumni",
-    "Women members of the Council of States (Switzerland)",
-    "Women members of the National Council (Switzerland)",
-    "Women members of the Federal Council (Switzerland)",
-    "Female justice ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Simonetta Myriam Sommaruga (born 14 May 1960) is a Swiss politician who has served as a Member of the Swiss Federal Council since 2010.",
-              "links": [
-                {
-                  "text": "Member of the Swiss Federal Council",
-                  "type": "internal",
-                  "page": "List of members of the Swiss Federal Council"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Simonetta Myriam Sommaruga"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Social Democratic Party (SP/PS), she was President of the Swiss Confederation in 2015 and 2020.",
-              "links": [
-                {
-                  "text": "Social Democratic Party",
-                  "type": "internal",
-                  "page": "Social Democratic Party of Switzerland"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of the Swiss Confederation"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "A former director of the Consumer Protection Foundation, which merged into the Swiss Alliance of Consumer Organisations in 2010, Sommaruga has headed the Federal Department of Environment, Transport, Energy and Communications since 2019, previously heading the Federal Department of Justice and Police (2010–2018).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Swiss Alliance of Consumer Organisations"
-                },
-                {
-                  "type": "internal",
-                  "page": "Federal Department of Environment, Transport, Energy and Communications"
-                },
-                {
-                  "type": "internal",
-                  "page": "Federal Department of Justice and Police"
-                }
-              ]
-            },
-            {
-              "text": "She served as Vice President of Switzerland for 2014 and 2019."
-            },
-            {
-              "text": "Sommaruga assumed the role of President of the Swiss Confederation in 2015, before returning to the position in 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of the Swiss Confederation"
-                }
-              ]
-            },
-            {
-              "text": "She resides in the canton of Bern.",
-              "links": [
-                {
-                  "text": "canton of Bern",
-                  "type": "internal",
-                  "page": "canton of Bern"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "July 2017",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "July 2017",
-          "template": "use british english"
-        },
-        {
-          "description": "95th President of the Swiss Confederation",
-          "template": "short description"
-        },
-        {
-          "year": "1960",
-          "month": "5",
-          "day": "14",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Simonetta Sommaruga"
-          },
-          "image": {
-            "text": "Simonetta Sommaruga (2022).jpg"
-          },
-          "caption": {
-            "text": "Sommaruga in 2022"
-          },
-          "office1": {
-            "text": "President of Switzerland",
-            "links": [
-              {
-                "text": "President of Switzerland",
-                "type": "internal",
-                "page": "President of the Swiss Confederation"
-              }
-            ]
-          },
-          "vicepresident1": {
-            "text": "Guy Parmelin"
-          },
-          "term_start1": {
-            "text": "1 January 2020"
-          },
-          "term_end1": {
-            "text": "31 December 2020"
-          },
-          "predecessor1": {
-            "text": "Ueli Maurer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ueli Maurer"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Guy Parmelin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guy Parmelin"
-              }
-            ]
-          },
-          "vicepresident2": {
-            "text": "Johann Schneider-Ammann"
-          },
-          "term_start2": {
-            "text": "1 January 2015"
-          },
-          "term_end2": {
-            "text": "31 December 2015"
-          },
-          "predecessor2": {
-            "text": "Didier Burkhalter",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Didier Burkhalter"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Johann Schneider-Ammann",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johann Schneider-Ammann"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Vice President of Switzerland"
-          },
-          "president3": {
-            "text": "Ueli Maurer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ueli Maurer"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 January 2019"
-          },
-          "term_end3": {
-            "text": "31 December 2019"
-          },
-          "predecessor3": {
-            "text": "Ueli Maurer"
-          },
-          "successor3": {
-            "text": "Guy Parmelin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guy Parmelin"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Didier Burkhalter",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Didier Burkhalter"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 January 2014"
-          },
-          "term_end4": {
-            "text": "31 December 2014"
-          },
-          "predecessor4": {
-            "text": "Didier Burkhalter"
-          },
-          "successor4": {
-            "text": "Johann Schneider-Ammann",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johann Schneider-Ammann"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Head of the Department of Environment, Transport, Energy and Communications",
-            "links": [
-              {
-                "text": "Department of Environment, Transport, Energy and Communications",
-                "type": "internal",
-                "page": "Federal Department of Environment, Transport, Energy and Communications"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 January 2019"
-          },
-          "predecessor5": {
-            "text": "Doris Leuthard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Doris Leuthard"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Head of the Department of Justice and Police"
-          },
-          "term_start6": {
-            "text": "1 November 2010"
-          },
-          "term_end6": {
-            "text": "31 December 2018"
-          },
-          "predecessor6": {
-            "text": "Eveline Widmer-Schlumpf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eveline Widmer-Schlumpf"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Karin Keller-Sutter",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karin Keller-Sutter"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of the Swiss Federal Council",
-            "links": [
-              {
-                "text": "Member of the Swiss Federal Council",
-                "type": "internal",
-                "page": "List of members of the Swiss Federal Council"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "1 November 2010"
-          },
-          "predecessor7": {
-            "text": "Moritz Leuenberger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moritz Leuenberger"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Simonetta Myriam Sommaruga"
-          },
-          "birth_date": {
-            "text": "May 14, 1960"
-          },
-          "birth_place": {
-            "text": "Zug, Switzerland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zug"
-              },
-              {
-                "type": "internal",
-                "page": "Switzerland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Social Democratic Party",
-            "links": [
-              {
-                "text": "Social Democratic Party",
-                "type": "internal",
-                "page": "Social Democratic Party of Switzerland"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Lukas Hartmann",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lukas Hartmann"
-              }
-            ]
-          },
-          "education": {
-            "text": "Lucerne University",
-            "links": [
-              {
-                "text": "Lucerne University",
-                "type": "internal",
-                "page": "Lucerne University of Applied Sciences and Arts"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Simonetta Sommaruga",
+  "image": "Simonetta Sommaruga (2022).jpg",
+  "caption": "Sommaruga in 2022",
+  "office1": "President of Switzerland",
+  "vicepresident1": "Guy Parmelin",
+  "term_start1": "1 January 2020",
+  "term_end1": "31 December 2020",
+  "predecessor1": "Ueli Maurer",
+  "successor1": "Guy Parmelin",
+  "vicepresident2": "Johann Schneider-Ammann",
+  "term_start2": "1 January 2015",
+  "term_end2": "31 December 2015",
+  "predecessor2": "Didier Burkhalter",
+  "successor2": "Johann Schneider-Ammann",
+  "office3": "Vice President of Switzerland",
+  "president3": "Ueli Maurer",
+  "term_start3": "1 January 2019",
+  "term_end3": "31 December 2019",
+  "predecessor3": "Ueli Maurer",
+  "successor3": "Guy Parmelin",
+  "president4": "Didier Burkhalter",
+  "term_start4": "1 January 2014",
+  "term_end4": "31 December 2014",
+  "predecessor4": "Didier Burkhalter",
+  "successor4": "Johann Schneider-Ammann",
+  "office5": "Head of the Department of Environment, Transport, Energy and Communications",
+  "term_start5": "1 January 2019",
+  "predecessor5": "Doris Leuthard",
+  "office6": "Head of the Department of Justice and Police",
+  "term_start6": "1 November 2010",
+  "term_end6": "31 December 2018",
+  "predecessor6": "Eveline Widmer-Schlumpf",
+  "successor6": "Karin Keller-Sutter",
+  "office7": "Member of the Swiss Federal Council",
+  "term_start7": "1 November 2010",
+  "predecessor7": "Moritz Leuenberger",
+  "birth_name": "Simonetta Myriam Sommaruga",
+  "birth_date": "May 14, 1960",
+  "birth_place": "Zug, Switzerland",
+  "party": "Social Democratic Party",
+  "spouse": "Lukas Hartmann",
+  "education": "Lucerne University"
 }
