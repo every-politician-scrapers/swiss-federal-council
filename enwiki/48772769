@@ -1,295 +1,32 @@
 {
-  "title": "Guy Parmelin",
-  "pageID": 48772769,
-  "categories": [
-    "1959 births",
-    "Living people",
-    "Members of the National Council (Switzerland)",
-    "Members of the Federal Council (Switzerland)",
-    "Swiss People's Party politicians",
-    "People from Nyon District"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Guy Bernard Parmelin (born 9 November 1959) is a Swiss politician, who served as president of Switzerland in 2021, having previously served as vice president of Switzerland in 2020.",
-              "links": [
-                {
-                  "text": "president of Switzerland",
-                  "type": "internal",
-                  "page": "President of the Swiss Confederation"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Guy Bernard Parmelin"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Swiss People's Party (SVP/UDC), he has been a member of the Swiss Federal Council since 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Swiss People's Party"
-                },
-                {
-                  "text": "member of the Swiss Federal Council",
-                  "type": "internal",
-                  "page": "List of members of the Swiss Federal Council"
-                }
-              ]
-            },
-            {
-              "text": "Parmelin has served as head of the Department of Economic Affairs, Education and Research since 2019, previously heading the Department of Defence, Civil Protection and Sports between 2016 and 2018.",
-              "links": [
-                {
-                  "text": "Department of Economic Affairs, Education and Research",
-                  "type": "internal",
-                  "page": "Federal Department of Economic Affairs, Education and Research"
-                },
-                {
-                  "text": "Department of Defence, Civil Protection and Sports",
-                  "type": "internal",
-                  "page": "Federal Department of Defence, Civil Protection and Sports"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "December 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "December 2015",
-          "template": "use british english"
-        },
-        {
-          "description": "98th President of Switzerland",
-          "template": "short description"
-        },
-        {
-          "year": "1959",
-          "month": "11",
-          "day": "9",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "ɡi bɛʁnaʁ paʁməlɛ̃",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Guy Parmelin"
-          },
-          "image": {
-            "text": "Guy Parmelin (2022).jpg"
-          },
-          "caption": {
-            "text": "Parmelin in 2022"
-          },
-          "office": {
-            "text": "President of Switzerland",
-            "links": [
-              {
-                "text": "President of Switzerland",
-                "type": "internal",
-                "page": "President of the Swiss Confederation"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "1 January 2021"
-          },
-          "termend": {
-            "text": "31 December 2021"
-          },
-          "vicepresident": {
-            "text": "Ignazio Cassis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ignazio Cassis"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Simonetta Sommaruga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Simonetta Sommaruga"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Ignazio Cassis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ignazio Cassis"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Vice President of Switzerland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice President of Switzerland"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Simonetta Sommaruga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Simonetta Sommaruga"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 January 2020"
-          },
-          "term_end1": {
-            "text": "31 December 2020"
-          },
-          "predecessor1": {
-            "text": "Simonetta Sommaruga"
-          },
-          "successor1": {
-            "text": "Ignazio Cassis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ignazio Cassis"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Head of the Department of Economic Affairs, Education and Research",
-            "links": [
-              {
-                "text": "Department of Economic Affairs, Education and Research",
-                "type": "internal",
-                "page": "Federal Department of Economic Affairs, Education and Research"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 January 2019"
-          },
-          "predecessor2": {
-            "text": "Johann Schneider-Ammann",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johann Schneider-Ammann"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Head of the Department of Defence, Civil Protection and Sports",
-            "links": [
-              {
-                "text": "Department of Defence, Civil Protection and Sports",
-                "type": "internal",
-                "page": "Federal Department of Defence, Civil Protection and Sports"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 January 2016"
-          },
-          "term_end3": {
-            "text": "31 December 2018"
-          },
-          "predecessor3": {
-            "text": "Ueli Maurer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ueli Maurer"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Viola Amherd",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Viola Amherd"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the Swiss Federal Council",
-            "links": [
-              {
-                "text": "Member of the Swiss Federal Council",
-                "type": "internal",
-                "page": "List of members of the Swiss Federal Council"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 January 2016"
-          },
-          "predecessor4": {
-            "text": "Eveline Widmer-Schlumpf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eveline Widmer-Schlumpf"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Guy Bernard Parmelin"
-          },
-          "birth_date": {
-            "text": "November 9, 1959"
-          },
-          "birth_place": {
-            "text": "Bursins, Vaud, Switzerland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bursins"
-              },
-              {
-                "type": "internal",
-                "page": "Vaud"
-              },
-              {
-                "type": "internal",
-                "page": "Switzerland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Swiss People's Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Swiss People's Party"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Guy Parmelin",
+  "image": "Guy Parmelin (2022).jpg",
+  "caption": "Parmelin in 2022",
+  "office": "President of Switzerland",
+  "termstart": "1 January 2021",
+  "termend": "31 December 2021",
+  "vicepresident": "Ignazio Cassis",
+  "predecessor": "Simonetta Sommaruga",
+  "successor": "Ignazio Cassis",
+  "office1": "Vice President of Switzerland",
+  "president1": "Simonetta Sommaruga",
+  "term_start1": "1 January 2020",
+  "term_end1": "31 December 2020",
+  "predecessor1": "Simonetta Sommaruga",
+  "successor1": "Ignazio Cassis",
+  "office2": "Head of the Department of Economic Affairs, Education and Research",
+  "term_start2": "1 January 2019",
+  "predecessor2": "Johann Schneider-Ammann",
+  "office3": "Head of the Department of Defence, Civil Protection and Sports",
+  "term_start3": "1 January 2016",
+  "term_end3": "31 December 2018",
+  "predecessor3": "Ueli Maurer",
+  "successor3": "Viola Amherd",
+  "office4": "Member of the Swiss Federal Council",
+  "term_start4": "1 January 2016",
+  "predecessor4": "Eveline Widmer-Schlumpf",
+  "birth_name": "Guy Bernard Parmelin",
+  "birth_date": "November 9, 1959",
+  "birth_place": "Bursins, Vaud, Switzerland",
+  "party": "Swiss People's Party"
 }
