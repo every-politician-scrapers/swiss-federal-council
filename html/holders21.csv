@@ -1,7 +1,7 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 President,Adolf Ogi,Q115531,2000-01-01,2000-12-31,male,1942-07-18,,Adolf Ogi.png,Adolf Ogi
 President,Moritz Leuenberger,Q115520,2001-01-01,2001-12-31,male,1946-09-21,,"Moritz Leuenberger, 2010.jpg",Moritz Leuenberger
-President,Kaspar Villiger,Q605874,2002-01-01,2002-12-31,male,1941-02-05,,Kaspar Villiger.gif,Kaspar Villiger
+President,Kaspar Villiger,Q605874,2002-01-01,2002-12-31,male,1941-02-05,,Kaspar Villiger 2002.jpg,Kaspar Villiger
 President,Pascal Couchepin,Q115513,2003-01-01,2003-12-31,male,1942-04-05,,"Pascal Couchepin, 2009.jpg",Pascal Couchepin
 President,Joseph Deiss,Q123823,2004-01-01,2004-12-31,male,1946-01-18,,Joseph Deiss.jpg,Joseph Deiss
 President,Samuel Schmid,Q115841,2005-01-01,2005-12-31,male,1947-01-08,,BR-Samuel-Schmid.jpg,Samuel Schmid
@@ -23,7 +23,7 @@ President,Simonetta Sommaruga,Q122991,2020-01-01,2020-12-31,female,1960-05-14,,S
 President,Guy Parmelin,Q121160,2021-01-01,2021-12-31,male,1959-11-09,,Guy Parmelin (2022).jpg,Guy Parmelin
 President,Ignazio Cassis,Q117254,2022-01-01,,male,1961-04-13,,Ignazio Cassis (2022).jpg,Ignazio Cassis
 Vice President,Moritz Leuenberger,Q115520,2000-01-01,2000-12-01,male,1946-09-21,,"Moritz Leuenberger, 2010.jpg",Moritz Leuenberger
-Vice President,Kaspar Villiger,Q605874,2001-01-01,2001-12-31,male,1941-02-05,,Kaspar Villiger.gif,Kaspar Villiger
+Vice President,Kaspar Villiger,Q605874,2001-01-01,2001-12-31,male,1941-02-05,,Kaspar Villiger 2002.jpg,Kaspar Villiger
 Vice President,Pascal Couchepin,Q115513,2002-01-01,2002-12-31,male,1942-04-05,,"Pascal Couchepin, 2009.jpg",Pascal Couchepin
 Vice President,Moritz Leuenberger,Q115520,2005-01-01,2005-12-31,male,1946-09-21,,"Moritz Leuenberger, 2010.jpg",Moritz Leuenberger
 Vice President,Micheline Calmy-Rey,Q122377,2006-01-01,2006-12-31,female,1945-07-08,,Micheline Calmy-Rey 2011.jpg,Micheline Calmy-Rey
@@ -38,7 +38,7 @@ Vice President,Ueli Maurer,Q123979,2018-01-01,2018-12-31,male,1950-12-01,,Ueli M
 Vice President,Ignazio Cassis,Q117254,2021-01-01,2021-12-31,male,1961-04-13,,Ignazio Cassis (2022).jpg,Ignazio Cassis
 Vice President,Alain Berset,Q123939,2022-01-01,,male,1972-04-09,,Alain Berset (2022).jpg,Alain Berset
 Member of the Federal Council,Adolf Ogi,Q115531,1988-01-01,2000-12-31,male,1942-07-18,,Adolf Ogi.png,Adolf Ogi
-Member of the Federal Council,Kaspar Villiger,Q605874,1989-02-01,2003-12-31,male,1941-02-05,,Kaspar Villiger.gif,Kaspar Villiger
+Member of the Federal Council,Kaspar Villiger,Q605874,1989-02-01,2003-12-31,male,1941-02-05,,Kaspar Villiger 2002.jpg,Kaspar Villiger
 Member of the Federal Council,Ruth Dreifuss,Q123902,1993-04-01,2002-12-31,female,1940-01-09,,"Ruth Dreifuss (2014, cropped).jpg",Ruth Dreifuss
 Member of the Federal Council,Moritz Leuenberger,Q115520,1995-10-01,2010-10-31,male,1946-09-21,,"Moritz Leuenberger, 2010.jpg",Moritz Leuenberger
 Member of the Federal Council,Pascal Couchepin,Q115513,1998-04-01,2009-10-31,male,1942-04-05,,"Pascal Couchepin, 2009.jpg",Pascal Couchepin
