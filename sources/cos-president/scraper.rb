@@ -6,16 +6,6 @@ require 'pry'
 
 require 'open-uri/cached'
 
-class ExtdFrench < WikipediaDate::French
-  REMAP = {
-    "aujourd'hui" => ''
-  }
-
-  def remap
-    super.merge(REMAP)
-  end
-end
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -31,15 +21,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      false
-    end
-
-    def tds
-      noko.css('td,th')
-    end
-
-    def date_class
-      ExtdFrench
+      super || (startDate[0...4].to_i < 1999)
     end
   end
 end
