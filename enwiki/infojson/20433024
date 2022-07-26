@@ -1,0 +1,164 @@
+[
+  {
+    "office": {
+      "links": [
+        "Swiss People's Party"
+      ],
+      "stated_as": "Chairman of the Swiss People's Party"
+    },
+    "P580": "1996-01-27",
+    "P1365": {
+      "links": [
+        "Hans Uhlmann"
+      ],
+      "stated_as": "Hans Uhlmann"
+    },
+    "P582": "2008-03-01",
+    "P1366": {
+      "links": [
+        "Toni Brunner"
+      ],
+      "stated_as": "Toni Brunner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Department of Defence, Civil Protection and Sports"
+      ],
+      "stated_as": "Head of the Department of Defence, Civil Protection and Sports"
+    },
+    "P580": "2009-01-01",
+    "P1365": {
+      "links": [
+        "Samuel Schmid"
+      ],
+      "stated_as": "Samuel Schmid"
+    },
+    "P582": "2015-12-31",
+    "P1366": {
+      "links": [
+        "Guy Parmelin"
+      ],
+      "stated_as": "Guy Parmelin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of members of the Swiss Federal Council"
+      ],
+      "stated_as": "Member of the Swiss Federal Council"
+    },
+    "P580": "2009-01-01",
+    "P1365": {
+      "links": [
+        "Samuel Schmid"
+      ],
+      "stated_as": "Samuel Schmid"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice President of Switzerland"
+    },
+    "P580": "2012-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Eveline Widmer-Schlumpf"
+    },
+    "P582": "2012-12-31",
+    "P1366": {
+      "links": [
+        "Didier Burkhalter"
+      ],
+      "stated_as": "Didier Burkhalter"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Swiss Confederation"
+      ],
+      "stated_as": "President of Switzerland"
+    },
+    "P580": "2013-01-01",
+    "P1365": {
+      "links": [
+        "Eveline Widmer-Schlumpf"
+      ],
+      "stated_as": "Eveline Widmer-Schlumpf"
+    },
+    "P582": "2013-12-31",
+    "P1366": {
+      "links": [
+        "Didier Burkhalter"
+      ],
+      "stated_as": "Didier Burkhalter"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Department of Finance"
+      ],
+      "stated_as": "Head of the Department of Finance"
+    },
+    "P580": "2016-01-01",
+    "P1365": {
+      "links": [
+        "Eveline Widmer-Schlumpf"
+      ],
+      "stated_as": "Eveline Widmer-Schlumpf"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice President of Switzerland"
+    },
+    "P580": "2018-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alain Berset"
+    },
+    "P582": "2018-12-31",
+    "P1366": {
+      "links": [
+        "Simonetta Sommaruga"
+      ],
+      "stated_as": "Simonetta Sommaruga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Swiss Confederation"
+      ],
+      "stated_as": "President of Switzerland"
+    },
+    "P580": "2019-01-01",
+    "P1365": {
+      "links": [
+        "Alain Berset"
+      ],
+      "stated_as": "Alain Berset"
+    },
+    "P582": "2019-12-31",
+    "P1366": {
+      "links": [
+        "Simonetta Sommaruga"
+      ],
+      "stated_as": "Simonetta Sommaruga"
+    }
+  }
+]

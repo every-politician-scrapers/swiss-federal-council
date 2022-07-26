@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Grand Council of Aargau"
+      ],
+      "stated_as": "Member of the Grand Council of Aargau"
+    },
+    "P580": "2010-01",
+    "P582": "2017-11"
+  },
+  {
+    "office": {
+      "links": [
+        "National Council (Switzerland)"
+      ],
+      "stated_as": "Member of the National Council of Switzerland"
+    },
+    "P580": "2017-11-27",
+    "P1365": {
+      "links": [
+        "Jonas Fricker"
+      ],
+      "stated_as": "Jonas Fricker"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the National Council of Switzerland"
+      ],
+      "stated_as": "President of the National Council"
+    },
+    "P580": "2021-11-29",
+    "P1365": {
+      "links": [
+        "Andreas Aebi"
+      ],
+      "stated_as": "Andreas Aebi"
+    }
+  }
+]

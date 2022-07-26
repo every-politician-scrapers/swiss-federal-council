@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federal Department of Defence, Civil Protection and Sport"
+      ],
+      "stated_as": "Head of the Department of Defence, Civil Protection and Sport"
+    },
+    "P580": "2019-01-01",
+    "P1365": {
+      "links": [
+        "Guy Parmelin"
+      ],
+      "stated_as": "Guy Parmelin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of members of the Swiss Federal Council"
+      ],
+      "stated_as": "Member of the Swiss Federal Council"
+    },
+    "P580": "2019-01-01",
+    "P1365": {
+      "links": [
+        "Doris Leuthard"
+      ],
+      "stated_as": "Doris Leuthard"
+    }
+  }
+]
