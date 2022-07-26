@@ -1,0 +1,69 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federal Department of Foreign Affairs"
+      ],
+      "stated_as": "Head of the Department of Foreign Affairs"
+    },
+    "P580": "2017-11-01",
+    "P1365": {
+      "links": [
+        "Didier Burkhalter"
+      ],
+      "stated_as": "Didier Burkhalter"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of members of the Swiss Federal Council"
+      ],
+      "stated_as": "Member of the Swiss Federal Council"
+    },
+    "P580": "2017-11-01",
+    "P1365": {
+      "links": [
+        "Didier Burkhalter"
+      ],
+      "stated_as": "Didier Burkhalter"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice President of Switzerland"
+    },
+    "P580": "2021-01-01",
+    "P1365": {
+      "links": [
+        "Guy Parmelin"
+      ],
+      "stated_as": "Guy Parmelin"
+    },
+    "P582": "2021-12-31",
+    "P1366": {
+      "links": [
+        "Alain Berset"
+      ],
+      "stated_as": "Alain Berset"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Swiss Confederation"
+      ],
+      "stated_as": "President of Switzerland"
+    },
+    "P580": "2022-01-01",
+    "P1365": {
+      "links": [
+        "Guy Parmelin"
+      ],
+      "stated_as": "Guy Parmelin"
+    }
+  }
+]
